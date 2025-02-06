@@ -1,1 +1,1 @@
-# Automatic-Image-Colouring
+# Image-Colourization
