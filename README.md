@@ -42,3 +42,17 @@ This notebook demonstrates:
 - Merge channels into LAB → Convert to RGB
 
 - Display coloured results
+
+## 🛠️ Technologies Used
+
+- Python 3.x
+
+- OpenCV (cv2)
+
+- NumPy
+
+- Matplotlib
+
+- Deep Learning Pretrained Models
+
+- Jupyter Notebook
