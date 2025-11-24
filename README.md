@@ -64,6 +64,13 @@ This notebook demonstrates:
 ├── output/                         # Colourized outputs
 └── README.md
 
+
+📂 Project Structure
+├── AutomaticImageColouring.ipynb   # Main notebook
+├── input_images/                   # Add your black & white images
+├── output/                         # Colourized outputs
+└── README.md
+
 ## ▶️ How to Run
 
 ### 1. Clone the repository
