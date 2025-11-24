@@ -79,3 +79,30 @@ pip install opencv-python numpy matplotlib
 
 jupyter notebook AutomaticImageColouring.ipynb
 
+### 4. Replace input image path
+
+Inside the notebook, set the path to your grayscale image.
+
+### 5. Run all cells
+
+The notebook will colourize your image and display the result.
+<img width="851" height="394" alt="download" src="https://github.com/user-attachments/assets/fd141552-35b0-4c00-b26d-dd85ed515603" />
+
+
+## 🚀 Future Improvements
+
+- Training a custom U-Net / GAN model
+
+- Web app or desktop GUI
+
+- Batch processing
+
+- Real-time colourization
+
+## 🤝 Contributing
+
+Feel free to submit pull requests or suggest improvements!
+
+
+
+
