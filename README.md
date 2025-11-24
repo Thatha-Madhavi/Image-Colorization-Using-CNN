@@ -60,8 +60,11 @@ This notebook demonstrates:
 ## 📂 Project Structure
 
 ├── AutomaticImageColouring.ipynb   # Main notebook
+
 ├── input_images/                   # Add your black & white images
+
 ├── output/                         # Colourized outputs
+
 └── README.md
 
 ## ▶️ How to Run
