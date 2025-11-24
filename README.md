@@ -16,3 +16,15 @@ This notebook demonstrates:
 - Recombining channels to form the final colourized output
 
 - Everything runs inside a single Jupyter Notebook for clarity and simplicity.
+
+## ✨ Features
+
+🎨 Automatic B&W → Colour conversion
+
+🤖 Powered by pretrained deep-learning models
+
+🖼️ Works on any photo (portraits, landscapes, architecture)
+
+📓 Clean and easy-to-run Jupyter Notebook
+
+⚡ Realistic and high-quality output
