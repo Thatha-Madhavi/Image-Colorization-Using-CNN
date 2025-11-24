@@ -28,3 +28,17 @@ This notebook demonstrates:
 📓 Clean and easy-to-run Jupyter Notebook
 
 ⚡ Realistic and high-quality output
+
+## 🧠 How It Works
+
+- Load grayscale image
+
+- Extract L (lightness) channel
+
+- Pass L through pretrained colourization model
+
+- Predict AB colour channels
+
+- Merge channels into LAB → Convert to RGB
+
+- Display coloured results
