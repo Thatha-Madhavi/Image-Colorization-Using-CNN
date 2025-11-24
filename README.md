@@ -56,3 +56,26 @@ This notebook demonstrates:
 - Deep Learning Pretrained Models
 
 - Jupyter Notebook
+
+## 📂 Project Structure
+
+├── AutomaticImageColouring.ipynb   # Main notebook
+├── input_images/                   # Add your black & white images
+├── output/                         # Colourized outputs
+└── README.md
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+git clone https://github.com/yourusername/AutomaticImageColouring.git
+cd AutomaticImageColouring
+
+### 2. Install dependencies
+
+pip install opencv-python numpy matplotlib
+
+### 3. Launch Jupyter Notebook
+
+jupyter notebook AutomaticImageColouring.ipynb
+
